@@ -1,4 +1,4 @@
-import config
+import config.config as config
 from trading_strategy import Trader
 
 import robin_stocks.robinhood as rh
